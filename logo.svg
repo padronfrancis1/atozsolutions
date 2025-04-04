@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.27015116"
+     inkscape:cx="1488.0558"
+     inkscape:cy="1771.2306"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="235"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid6"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g8">
+      <text
+         xml:space="preserve"
+         style="font-size:430.823px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:5.0487"
+         x="57.201633"
+         y="584.18756"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:430.823px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';fill:#ffffff;stroke-width:5.0487"
+           x="57.201633"
+           y="584.18756">AT    Z</tspan></text>
+      <ellipse
+         style="fill:#ffffff;stroke-width:3.78955"
+         id="path2"
+         cx="598.16522"
+         cy="417.18857"
+         rx="174.57687"
+         ry="167.6861" />
+      <ellipse
+         style="fill:#1a1a1a;fill-opacity:1;stroke-width:2.30425"
+         id="path2-8"
+         cx="596.34125"
+         cy="417.6106"
+         rx="105.94666"
+         ry="102.15917" />
+      <ellipse
+         style="fill:#30909d;fill-opacity:1;stroke-width:1.16623"
+         id="path2-8-5"
+         cx="597.27948"
+         cy="417.29776"
+         rx="53.385418"
+         ry="51.933983" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:134.632px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.0487"
+         x="598.61432"
+         y="381.24875"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="stroke-width:5.0487"
+           x="598.61432"
+           y="381.24875">  </tspan></text>
+      <g
+         id="g7"
+         transform="matrix(19.081716,0,0,19.081716,-1249.7951,-1233.271)">
+        <g
+           id="g6">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.84341px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.227035"
+             x="77.59729"
+             y="104.08283"
+             id="text2"><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.84341px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:0.227035"
+               x="77.59729"
+               y="104.08283">S O L U T I O N S</tspan></text>
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.227035"
+             id="rect6"
+             width="7.0646057"
+             height="0.34141219"
+             x="70.424255"
+             y="102.38259" />
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.227035"
+             id="rect6-1"
+             width="7.0646057"
+             height="0.34141219"
+             x="104.2774"
+             y="102.25201" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
